@@ -32,4 +32,4 @@ Os arquivos são separados em pastas por assunto (ex: fundamentos, condicionais,
 
 ---
 
-Autor: Bruno Gomes
+Autor: Bianca Marques
